@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "up-project-app"
+  "defaultProject": "up-project-app",
+  "cli": {
+    "analytics": false
+  }
 }
